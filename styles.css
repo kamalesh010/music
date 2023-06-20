@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+
+}
+body{
+
+    background-image: url("Keep calm (1).png");
+    background-repeat: no-repeat
+    background-position: center;
+    background-size: cover ;
+}
+.ryt{
+     display: flex;
+    float: right;
+    margin-right: 290px;
+    margin-top: 260px;
+    align-items: center;
+    
+}
+.ryt p{
+    font-size: 37px;
+    color: EEEEEE;
+    font-family: 'EB Garamond', serif;
+    opacity: 39%;
+    margin-right: 0px;
+
+.icon{
+    width: 100px;
+    cursor: pointer;
+    margin-right: 300px;
+    height: 100px;
+    opacity: 50%;
+}
